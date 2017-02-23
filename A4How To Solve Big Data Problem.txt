@@ -1,0 +1,36 @@
+1)  Describe the characteristics of Big data in detail :
+	The characteristics of Big data are:
+
+	a)Volume : 
+		It refers to the quantity of  data created and stored.
+	b)Velocity:
+		It refers to the speed in which the data changes in an environment.
+	c)Variety:
+		It is the type and nature of data.
+		• Structured data
+		• Unstructured data
+		• Semi-structured data
+		
+	d)Veracity:
+		Veracity means trustworthiness of the data and the uncertainity of data.
+	e)Value :
+		Value  that includes a large volume and variety of data that is easy to access
+		 and delivers quality analytics that enables informed decisions. 
+		
+		
+2)  Explain the possible solutions to handle Big data :
+	
+	The possible solutions to handle Big data are :
+		a)Scale up:
+			Scale up the computing resources on a node, via parallel processing &
+			 faster memory/storage.
+		b)Scale out:
+			Scale out the computing to distributed nodes
+			in a cluster/cloud or at the edge.
+
+3). Explain the differences between scaling up and scaling out :
+
+	#Scaling up is also known as concurrent programming while Scaling out is also known as 
+	distributed programming.
+	# Scaling up is a common method for utilizing multi-core architecture in the context of a 
+	single application while Scaling out distributes jobs across machines over the network .
